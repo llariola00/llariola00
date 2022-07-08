@@ -1,4 +1,5 @@
-- Hey there! I'm llariola00 and currently i'm interested in Java and JavaFX.
+- Hey there! I'm llariola00 and currently i'm learning coding in general.
+- I'm exploring different fields, from css/html front-end stuffs to php/mysql back-end & server stuffs!
 - I'm completely new to coding and slowly learning! 
 
 <!---
